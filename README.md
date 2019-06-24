@@ -39,8 +39,10 @@ A Practical Approach</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Biostatistics-Books/blob/master/bst(23).pdf" style="text-decoration:none;">New Frontiers of Biostatistics
 and Bioinformatics</a></b></li>  
     
-  
-  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Biostatistics-Books/blob/master/bst(24).pdf" style="text-decoration:none;">Advances in Clinical Trial Biostatistics </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Biostatistics-Books/blob/master/bst(25).pdf" style="text-decoration:none;">Dynamical Biostatistical Models</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Biostatistics-Books/blob/master/bst(26).pdf" style="text-decoration:none;">High-Yield Biostatistics</a></b></li>    
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Biostatistics-Books/blob/master/bst(27).pdf" style="text-decoration:none;">Biostatistics for Animal Science</a></b></li>      
   
   
 </ul>                                
